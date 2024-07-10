@@ -16,13 +16,16 @@ Este projeto é uma ferramenta de automação de pesquisa que utiliza Node.js e 
 2. NPM.
 3. Navegador Google Chrome instalado ( **Você pode trocar para o navegador que você quiser, basta trocar o nome do navegador nas linhas** { 2, 5, 7, 8, 11, 12 } **do arquivo app.js**)
 
+```sh
 ## Instalação
-1. **Clone o repositório**:
- > git clone https://github.com/ohneEternaL/search-engine.git
- > cd search-engine
+1. Clone o repositório:
+   git clone https://github.com/ohneEternaL/search-engine.git
+   cd search-engine
 
-## Instale as dependencias:
- > npm install
+## Instale as dependencias
+2. Dependencias:
+   npm install
 
-## Execute o programa no CMD:
- > cd src > node app.js
+## Execute o programa no CMD
+3. Executar:
+   cd src > node app.js
