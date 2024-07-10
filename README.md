@@ -14,7 +14,7 @@ Este projeto é uma ferramenta de automação de pesquisa que utiliza Node.js e 
 ## Pré-requisitos
 1. Node.js instalado no seu sistema.
 2. NPM.
-3. Navegador Google Chrome instalado ( **Você pode trocar para o navegador que você quiser, basta trocar o nome do navegador nas linhas** { 2, 5, 7, 8, 11, 12 } )
+3. Navegador Google Chrome instalado ( **Você pode trocar para o navegador que você quiser, basta trocar o nome do navegador nas linhas** { 2, 5, 7, 8, 11, 12 } **do arquivo app.js**)
 
 ## Instalação
 1. **Clone o repositório**:
