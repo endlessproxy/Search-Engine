@@ -1,7 +1,7 @@
 # Backend: **Search Engine** usando **Node.js** e **Selenium**
 
 ## Introdução
-Este projeto é uma ferramenta de automação de pesquisa que utiliza Node.js e Selenium para realizar buscas no Google e salvar capturas de tela dos resultados. O usuário pode escolher diferentes tipos de pesquisa (Padrão, Imagens, Shopping, Notícias, Vídeos, Maps) e uma captura de tela será salva na pasta `Screenshots`.
+Este projeto é uma ferramenta de automação de pesquisa que utiliza Node.js e Selenium para realizar buscas no Google e salvar capturas de tela dos resultados na pasta `Screenshots`.
 
 ## Funcionalidades:
 - **Pesquisa Padrão**
