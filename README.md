@@ -3,13 +3,13 @@
 ## Introdução
 Este projeto é uma ferramenta de automação de pesquisa que utiliza Node.js e Selenium para realizar buscas no Google e salvar capturas de tela dos resultados na pasta `Screenshots`.
 
+![WhatsApp Image 2024-08-10 at 12 47 57_4484dc37](https://github.com/user-attachments/assets/dbdfd595-9ecd-41c9-bad9-b26e6939f647)
+
+
 ## Funcionalidades:
-- **Pesquisa Padrão**
-- **Pesquisa por Imagens**
-- **Pesquisa por Shopping**
-- **Pesquisa por Notícias**
-- **Pesquisa por Vídeos**
-- **Pesquisa por Maps**
+![image](https://github.com/user-attachments/assets/ddb8adbe-9875-4828-b483-dac6d007091f)
+
+
 
 ## Pré-requisitos
 1. Node.js instalado no seu sistema.
