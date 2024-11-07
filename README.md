@@ -19,7 +19,7 @@ Este projeto é uma ferramenta de automação de pesquisa que utiliza Node.js e 
 ```sh
 ## Instalação
 1. Clone o repositório:
-   git clone https://github.com/ohneEternaL/search-engine.git
+   git clone https://github.com/endlessproxy/search-engine.git
    cd search-engine
 
 ## Instale as dependencias
